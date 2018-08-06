@@ -12,7 +12,7 @@ Starter templates for building PWAs using Polymer Project.
   - fast time-to-interactive and first-paint through the PRPL pattern
   - easy deployment to prpl-server or static hosting
   - unit and integrating testing starting points
-  - documentation about other advanced patterns.
+  - documentation about other advanced patterns - [sample apps](https://polymer.github.io/pwa-starter-kit/sample-apps/)
 - [PWA Starter Kit Plus](https://github.com/StartPolymer/pwa-starter-kit-plus) gives you the following features:
   - up-to-date fork of PWA Starter Kit
   - EditorConfig for define consistent coding styles between different editors. Atom and VS Code need to install a plugin
@@ -22,3 +22,5 @@ Starter templates for building PWAs using Polymer Project.
   - fork of PWA Starter Kit
   - firebase authentication using Google OAuth provider
   - redux-saga usage for handling side effects.
+- [Polymer 3 Webpack Starter](https://github.com/web-padawan/polymer3-webpack-starter)
+- [Create-lit-app](https://github.com/thepassle/create-lit-app)
